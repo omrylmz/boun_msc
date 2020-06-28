@@ -1,1 +1,0 @@
-Keep the files intact in a common directory and just run the main.m (Play button or Ctrl + Enter on the file.)
