@@ -1,0 +1,1 @@
+For the matlab exercises, you should go to the path of the question and just execute the ME_xx_main.m file. Other m-files are called from within it. All the required explanations are written on the main command window.
